@@ -1,0 +1,41 @@
+.task-name {
+    min-width: 20%;
+    white-space: nowrap;
+}
+
+.task-status {
+    min-width: 20%;
+    white-space: nowrap;
+}
+
+.task-description {
+    min-width: 30%;
+    max-width: 50%;
+}
+
+.task-created-at {
+    min-width: 20%;
+    white-space: nowrap;
+}
+
+.task-updated-at {
+    min-width: 20%;
+    white-space: nowrap;
+}
+
+.task-actions {
+    white-space: nowrap;
+}
+
+.task-table-footer {
+    margin: auto;
+}
+
+.small-error {
+    color: red;
+}
+
+.task-table-div{
+    table-layout: fixed;
+    overflow-x: auto;
+}
